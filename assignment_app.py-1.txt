@@ -1,0 +1,15 @@
+
+"""A typical review of a flask application"""
+
+import requests
+from flask import flask
+from flask_sqlalchemy import SQLAlchemy
+
+app = Flask(__name__)
+
+
+# app routers 
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+
