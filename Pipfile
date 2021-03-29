@@ -24,6 +24,11 @@ psycopg2-binary = "*"
 flask = "*"
 flask-sqlalchemy = "*"
 python-dotenv = "*"
+requests = "*"
+tweepy = "*"
+pipfile = "*"
+lock = "*"
+spacy = "*"
 
 [dev-packages]
 
