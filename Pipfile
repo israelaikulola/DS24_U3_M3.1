@@ -29,6 +29,7 @@ tweepy = "*"
 pipfile = "*"
 lock = "*"
 spacy = "*"
+jupyter = "*"
 
 [dev-packages]
 
